@@ -24,6 +24,11 @@
       "source": "/instagram",
       "destination": "https://instagram.com/l__6174",
       "permanent": true
+    },
+    {
+      "source": "/dotfiles",
+      "destination": "https://github.com/l6174/hyprdots#hyprland-dot-files",
+      "permanent": true
     }
   ]
 }
