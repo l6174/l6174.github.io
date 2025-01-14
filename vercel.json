@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/github",
+      "destination": "https://github.com/l6174",
+      "permanent": true
+    }
+  ]
+}
