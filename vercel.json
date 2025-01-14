@@ -4,6 +4,26 @@
       "source": "/github",
       "destination": "https://github.com/l6174",
       "permanent": true
+    },
+    {
+      "source": "/reddit",
+      "destination": "https://reddit.com/user/l_6174",
+      "permanent": true
+    },
+    {
+      "source": "/telegram",
+      "destination": "https://t.me/l_6174",
+      "permanent": true
+    },
+    {
+      "source": "/discord",
+      "destination": "https://discord.com/users/11052568567012393032",
+      "permanent": true
+    },
+    {
+      "source": "/instagram",
+      "destination": "https://instagram.com/l__6174",
+      "permanent": true
     }
   ]
 }
